@@ -1,0 +1,46 @@
+#second-div .heading {
+    font-size: 30px;
+    color: tomato;
+}
+
+#second-div .italic-paragraph {
+    font-style: italic;
+    font-size: 20px;
+}
+
+#second-div .bold-list {
+    font-weight: bold;
+}
+
+.green-heading {
+    color: green;
+}
+
+.blue-background {
+    background-color: lightblue;
+}
+
+.bordered-list {
+    border: 2px solid darkblue;
+}
+
+.first-paragraph {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    background-image: url('background-image.jpg');
+    border: 3px solid red;
+}
+
+.second-paragraph {
+    font-family: 'Times New Roman', serif;
+    font-size: 20px;
+    background-color: #f0e68c;
+    border: 2px dashed green;
+}
+
+.third-paragraph {
+    font-family: 'Courier New', monospace;
+    font-size: 22px;
+    background-color: #87ceeb;
+    border: 4px dotted blue;
+}
